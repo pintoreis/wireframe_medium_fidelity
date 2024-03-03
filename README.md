@@ -20,17 +20,17 @@ Course Project: Creating a Medium Fidelity Wireframe - UX Designer Training Cour
   <img alt="Project Image" src="https://i.imgur.com/e6yNZ3m.png">
 </p>
 
-## 🚀 Medium Fidelity Wireframe for Clothing E-commerce
-
+## 🚀 Introduction
 This project was developed as part of the challenge proposed in the "UX Designer Training" course at DIO.
 The goal was to apply the concepts and principles of User Experience learned so far, consolidating the fundamentals of UX.
+For this purpose was created a: Medium Fidelity Wireframe for Clothing E-commerce.
 
-## 💻 Project Context
+## 💻 Project
 
 I chose to design the layout of the homepage for a clothing e-commerce website, focusing on the mobile version.
 The layout structure was conceived to facilitate navigation and product discovery, while offering account management functionalities and interaction with the store.
 
-## 🔖 Layout Architecture
+## 🔖 Layout
 
 Top Navigation:
 Spaces dedicated to navigation, product search, and checkout.
