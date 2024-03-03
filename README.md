@@ -52,9 +52,9 @@ The medium fidelity wireframe was developed in Figma, striking a balance between
 ## 💎 Conclusion
 This project represented an opportunity to apply the knowledge acquired in the UX Designer Training course, contributing to the creation of an intuitive and effective user experience in the context of clothing e-commerce.
 
-## :wave: Feedback
+## 🔥 Feedback
 Any feedback or suggestions are welcome. If you wish to discuss the project or other related topics, feel free to contact us through the provided channels.
 
 ---
 
-Made with ♥️ by Paulo Reis
+Made with 💜 by Paulo Reis
