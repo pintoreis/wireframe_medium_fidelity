@@ -7,8 +7,10 @@ Course Project: Creating a Medium Fidelity Wireframe - UX Designer Training Cour
 <p align="center">
   <a href="#-introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout Architecture</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-wireframe">Wireframe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-conclusion">Conclusion</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-freedback">Feedback</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -43,20 +45,16 @@ Each group offers interaction and navigation functionalities for specific areas 
 Footer:
 Account management functionalities and interaction with the store.
 
-
-## Wireframe Presentation:
+## :wrench: Wireframe
 The medium fidelity wireframe was developed in Figma, striking a balance between visual details and simplicity to allow a clear understanding of the structure and functionalities.
 <a href="https://www.rocketseat.com.br/discover](https://www.figma.com/community/file/1345786785438361680/dio-project-creating-a-medium-fidelity-wireframe">See the project on Figma by clicking here!</a>
 
-## Conclusion:
+## :gem: Conclusion
 This project represented an opportunity to apply the knowledge acquired in the UX Designer Training course, contributing to the creation of an intuitive and effective user experience in the context of clothing e-commerce.
 
-## Feedback:
+## :wave: Feedback
 Any feedback or suggestions are welcome. If you wish to discuss the project or other related topics, feel free to contact us through the provided channels.
 
 ---
 
-Made with ♥ by Paulo Reis :wave: [Connect with me. Let's work together!](https://www.linkedin.com/in/paulopintoreis/)
-
-
-
+Made with ♥ by Paulo Reis
