@@ -10,7 +10,7 @@ Course Project: Creating a Medium Fidelity Wireframe - UX Designer Training Cour
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-wireframe">Wireframe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-conclusion">Conclusion</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-feedback">Feedback</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-feedback">Feedback</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -29,21 +29,17 @@ For this purpose was created a: Medium Fidelity Wireframe for Clothing E-commerc
 
 ## 💻 Project
 
-I chose to design the layout of the homepage for a clothing e-commerce website, focusing on the mobile version.
+I have chosen to design the layout of the homepage for a clothing e-commerce website, focusing on the mobile version.
 The layout structure was conceived to facilitate navigation and product discovery, while offering account management functionalities and interaction with the store.
 
 ## 🔖 Layout
 
-Top Navigation:
-Spaces dedicated to navigation, product search, and checkout.
-Center Layout:
-Organized vertically into three distinct groups:
-a. Store Billboard.
-b. Featured Deals.
-c. Coming Soon.
-Each group offers interaction and navigation functionalities for specific areas and products.
-Footer:
-Account management functionalities and interaction with the store.
+- Top Navigation: spaces dedicated to navigation, product search, and checkout.
+- Center Layout, organized vertically into three distinct groups, each group offers interaction and navigation functionalities for specific areas and products:
+  - a. Store Billboard.
+  - b. Featured Deals.
+  - c. Coming Soon.
+- Footer: account management functionalities and interaction with the store.
 
 ## 🔧 Wireframe
 The medium fidelity wireframe was developed in Figma, striking a balance between visual details and simplicity to allow a clear understanding of the structure and functionalities.
@@ -53,7 +49,7 @@ The medium fidelity wireframe was developed in Figma, striking a balance between
 This project represented an opportunity to apply the knowledge acquired in the UX Designer Training course, contributing to the creation of an intuitive and effective user experience in the context of clothing e-commerce.
 
 ## 🔥 Feedback
-Any feedback or suggestions are welcome. If you wish to discuss the project or other related topics, feel free to contact us through the provided channels.
+Any feedback or suggestions are welcome. If you wish to discuss the project or other related topics, feel free to contact me through the provided channels.
 
 ---
 
